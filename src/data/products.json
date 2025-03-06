@@ -1,0 +1,160 @@
+{
+  "products": [
+    {
+      "name": "Pizza Hải Sản Pesto",
+      "description": "Pizza với sốt Pesto, hải sản tươi ngon và phô mai Mozzarella",
+      "price": 199000,
+      "image": "https://example.com/images/seafood-pesto.jpg",
+      "category": "pizza",
+      "options": [
+        {
+          "name": "Kích cỡ",
+          "choices": [
+            { "name": "Nhỏ (7\")", "priceAdjustment": -30000 },
+            { "name": "Vừa (9\")", "priceAdjustment": 0 },
+            { "name": "Lớn (12\")", "priceAdjustment": 50000 }
+          ]
+        },
+        {
+          "name": "Đế bánh",
+          "choices": [
+            { "name": "Đế mỏng", "priceAdjustment": 0 },
+            { "name": "Đế dày", "priceAdjustment": 10000 },
+            { "name": "Đế nhồi phô mai", "priceAdjustment": 30000 }
+          ]
+        }
+      ],
+      "available": true
+    },
+    {
+      "name": "Pizza Pepperoni",
+      "description": "Pizza với xúc xích Pepperoni và phô mai Mozzarella",
+      "price": 169000,
+      "image": "https://example.com/images/pepperoni.jpg",
+      "category": "pizza",
+      "options": [
+        {
+          "name": "Kích cỡ",
+          "choices": [
+            { "name": "Nhỏ (7\")", "priceAdjustment": -30000 },
+            { "name": "Vừa (9\")", "priceAdjustment": 0 },
+            { "name": "Lớn (12\")", "priceAdjustment": 50000 }
+          ]
+        },
+        {
+          "name": "Đế bánh",
+          "choices": [
+            { "name": "Đế mỏng", "priceAdjustment": 0 },
+            { "name": "Đế dày", "priceAdjustment": 10000 },
+            { "name": "Đế nhồi phô mai", "priceAdjustment": 30000 }
+          ]
+        }
+      ],
+      "available": true
+    },
+    {
+      "name": "Pizza Rau Củ",
+      "description": "Pizza chay với nhiều loại rau củ tươi ngon",
+      "price": 149000,
+      "image": "https://example.com/images/veggie.jpg",
+      "category": "pizza",
+      "options": [
+        {
+          "name": "Kích cỡ",
+          "choices": [
+            { "name": "Nhỏ (7\")", "priceAdjustment": -30000 },
+            { "name": "Vừa (9\")", "priceAdjustment": 0 },
+            { "name": "Lớn (12\")", "priceAdjustment": 50000 }
+          ]
+        },
+        {
+          "name": "Đế bánh",
+          "choices": [
+            { "name": "Đế mỏng", "priceAdjustment": 0 },
+            { "name": "Đế dày", "priceAdjustment": 10000 },
+            { "name": "Đế nhồi phô mai", "priceAdjustment": 30000 }
+          ]
+        }
+      ],
+      "available": true
+    },
+    {
+      "name": "Cánh gà sốt BBQ",
+      "description": "Cánh gà nướng với sốt BBQ đậm đà",
+      "price": 99000,
+      "image": "https://example.com/images/bbq-wings.jpg",
+      "category": "sides",
+      "options": [
+        {
+          "name": "Kích cỡ",
+          "choices": [
+            { "name": "6 miếng", "priceAdjustment": 0 },
+            { "name": "12 miếng", "priceAdjustment": 89000 }
+          ]
+        }
+      ],
+      "available": true
+    },
+    {
+      "name": "Khoai tây chiên",
+      "description": "Khoai tây chiên giòn",
+      "price": 49000,
+      "image": "https://example.com/images/fries.jpg",
+      "category": "sides",
+      "options": [
+        {
+          "name": "Kích cỡ",
+          "choices": [
+            { "name": "Nhỏ", "priceAdjustment": 0 },
+            { "name": "Lớn", "priceAdjustment": 20000 }
+          ]
+        }
+      ],
+      "available": true
+    },
+    {
+      "name": "Coca-Cola",
+      "description": "Nước ngọt Coca-Cola",
+      "price": 25000,
+      "image": "https://example.com/images/coke.jpg",
+      "category": "drinks",
+      "options": [
+        {
+          "name": "Kích cỡ",
+          "choices": [
+            { "name": "Lon", "priceAdjustment": 0 },
+            { "name": "Chai 1.5L", "priceAdjustment": 15000 }
+          ]
+        }
+      ],
+      "available": true
+    },
+    {
+      "name": "Nước suối",
+      "description": "Nước suối tinh khiết",
+      "price": 15000,
+      "image": "https://example.com/images/water.jpg",
+      "category": "drinks",
+      "options": [],
+      "available": true
+    },
+    {
+      "name": "Bánh Chocolate Lava",
+      "description": "Bánh chocolate với nhân chảy",
+      "price": 59000,
+      "image": "https://example.com/images/lava-cake.jpg",
+      "category": "desserts",
+      "options": [],
+      "available": true
+    },
+    {
+      "name": "Kem Vanilla",
+      "description": "Kem vanilla mát lạnh",
+      "price": 39000,
+      "image": "https://example.com/images/ice-cream.jpg",
+      "category": "desserts",
+      "options": [],
+      "available": true
+    }
+  ]
+} 
